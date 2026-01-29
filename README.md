@@ -61,7 +61,7 @@ Python 3.x sürümünün yüklü olduğundan emin olun. Proje dizininde terminal
 
 ```bash
 pip install -r requirements.txt
----
+```
 
 ## Yapılandırma ve Kullanım
 
@@ -77,6 +77,7 @@ USB_PORT = "COM3"  # Aygıt yöneticisinden kontrol ediniz
 # Kodu Wi-Fi üzerinden çalıştırmak için:
 BAGLANTI_MODU = "WIFI"
 WIFI_IP = "192.168.4.1" # ESP32'nin IP adresi
+```
 ---
 
 ### MIT License
