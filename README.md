@@ -82,7 +82,7 @@ WIFI_IP = "192.168.4.1" # ESP32'nin IP adresi
 
 ### MIT License
 
-Copyright (c) 2026 HzAybars
+Copyright (c) 2026 Aybars Tutumlu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
